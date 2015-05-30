@@ -1,5 +1,6 @@
 This is a program meant to be used on a server (or anywhere you see fit), where the user would make something disappear from his inventory, earning interest on it, and then be able to withdraw it.
 What do you want more? It's a bank!
+Just discovered that it could also be used for loans. Again, the interest is one per stack per Minecraft day.
 It could afford some customization:
   Right now the interest is one per stack per ingame day (which I considered was 20 minutes)
   There isn't any restriction or control whatsoever right now, and there isn't any way of managing the items either.
