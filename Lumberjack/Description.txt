@@ -1,0 +1,4 @@
+This is a program to cut trees automatically.
+Meant to be put in a Turtle.
+Requires a mod that takes down trees when you cut the first block of the tree. I recommend Treecapitator.
+Requires the "No fuel mode" to be on.
